@@ -1,1 +1,1 @@
-# Kidney-disease-prediction-using-ML
+# Prediksi penyakit ginjal dengan ML dan Python
